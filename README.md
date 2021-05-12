@@ -1,2 +1,2 @@
-# natural interaction with molecular graphics programs
+# Natural interaction with molecular graphics programs
  Gestures are considered as the natural mode of interaction with the environment, have already been used in many applications for interacting with computers. In this paper we want to explore the idea of using head and hand tracking to interact with software applications that are used for three-dimensional manipulation and analysis of biological macromolecules. We will use a Kinect v2 (One) for head tracking, computer’s camera for hand tracking and Pymol for applying that movement to a molecule. 
